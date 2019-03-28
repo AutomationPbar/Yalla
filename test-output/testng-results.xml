@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="6006525" started-at="2018-10-05T07:50:43Z" finished-at="2018-10-05T09:30:50Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="6006525" started-at="2018-10-05T07:50:43Z" finished-at="2018-10-05T09:30:50Z">
+      <class name="core.Getdatahomeloan">
+        <test-method status="PASS" signature="setup()[pri:0, instance:core.Getdatahomeloan@33723e30]" name="setup" is-config="true" duration-ms="4175" started-at="2018-10-05T07:50:39Z" finished-at="2018-10-05T07:50:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="ccdata()[pri:0, instance:core.Getdatahomeloan@33723e30]" name="ccdata" duration-ms="6006492" started-at="2018-10-05T07:50:43Z" finished-at="2018-10-05T09:30:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ccdata -->
+      </class> <!-- core.Getdatahomeloan -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
